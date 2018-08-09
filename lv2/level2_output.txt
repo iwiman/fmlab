@@ -1,5 +1,7 @@
 mov ebx, 0x1
 mov eax, ebx
 mov ebp, esp
+mov edx, ecx
+mov edi, esi
 mov eax, 0x2
 mov ecx, eax
